@@ -54,6 +54,7 @@ payload:
     - '+.binb.com'
     - '+.binf.com'
     - '+.bing.com'
+    - '+.bing.net'
     - '+.bing123.com'
     - '+.bing135.com'
     - '+.bing4.com'
